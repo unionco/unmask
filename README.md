@@ -71,3 +71,7 @@ This library utilizes the `clip-path` and `-webkit-clip-path` CSS attribute in c
 
 ## Browser Support
 This library supports Chrome, Firefox, Safari, and Edge (Chromium). IE11 and Edge are not supported.
+
+---
+
+Brought to you by [Union](https://github.com/unionco)
