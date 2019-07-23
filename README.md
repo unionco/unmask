@@ -3,7 +3,7 @@
 A scroll-to-reveal JavaScript library that unmasks your elements using the `clip-path` CSS property.
 
 ## Install
-Download and include the `unmask.js` file in your project. I will be uploading to `npm` soon to make things easier for everyone.
+`npm i @union/unmask`
 
 ## How To Use
 Add the `data-unmask` attribute to any DOM elements you want to add this transition to. In JS, you may run `Unmask()` without any options, or you can add an options object as a parameter to `Unmask()`. This will apply global options to all elements with the `data-unmask` attribute.
