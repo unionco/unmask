@@ -1,5 +1,5 @@
 {
-  "name": "unmask",
+  "name": "@union/unmask",
   "version": "1.0.0",
   "description": "A scroll-to-reveal JavaScript library that unmasks your elements using the clip-path CSS property.",
   "main": "unmask.js",

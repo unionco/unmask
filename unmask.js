@@ -41,8 +41,7 @@ function addStyles(element, globalOptions) {
                 vertical: 'polygon(0% 25%, 100% 25%, 100% 75%, 0% 75%)',
                 center: 'polygon(25% 25%, 75% 25%, 75% 75%, 25% 75%)',
             },
-        },
-        unmasked: 'polygon(0% 0%, 100% 0%, 100% 110%, 0% 110%)',
+        }
     };
 
     element.style.setProperty('--unmask-delay', `${delay}ms`);
@@ -67,7 +66,7 @@ export default function Unmask(globalOptions) {
         threshold: 0
     };
 
-    const unmasked = 'polygon(0% 0%, 100% 0%, 100% 110%, 0% 110%)';
+    const unmasked = 'polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)';
 
     const observer = new window.IntersectionObserver((elements, self) => {
         elements.forEach((element) => {
