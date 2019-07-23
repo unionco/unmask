@@ -1,0 +1,29 @@
+{
+  "name": "unmask",
+  "version": "1.0.0",
+  "description": "A scroll-to-reveal JavaScript library that unmasks your elements using the clip-path CSS property.",
+  "main": "unmask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unionco/unmask.git"
+  },
+  "keywords": [
+    "scroll",
+    "reveal",
+    "intersection",
+    "observer",
+    "clip-path",
+    "wow",
+    "animate",
+    "transition"
+  ],
+  "author": "Union (https://union.co)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unionco/unmask/issues"
+  },
+  "homepage": "https://github.com/unionco/unmask#readme"
+}
