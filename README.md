@@ -27,8 +27,8 @@ Unmask({
   origin: 'left'
   // left, right, top, bottom, horizontal, vertical, center
   // Where the animation begins on the element
-  // The 'edge' type uses left, right, top, and bottom origins
-  // The 'center' type uses horizontal, vertical, and center origins
+  // The 'edge' area uses left, right, top, and bottom origins
+  // The 'center' area uses horizontal, vertical, and center origins
   
   fade: true,
   // true, false
